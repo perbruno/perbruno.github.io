@@ -2,7 +2,7 @@ module.exports = {
 	title: "Tech Thoughts",
 	url: "https://perbruno.github.io",
 	language: "en",
-	description: "I am writing about my experiences as a naval navel-gazer.",
+	description: "Arranging bits under a Phrygian scale",
 	author: {
 		name: "Bruno Pereira",
 		//email: "youremailaddress@example.com",
