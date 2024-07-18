@@ -47,17 +47,17 @@
 	</url>
 	
 	<url>
+		<loc>https://perbruno.github.io/eleventy-base-blog/tags/another-tag/</loc>
+		<lastmod>2024-07-18</lastmod>
+	</url>
+	
+	<url>
 		<loc>https://perbruno.github.io/eleventy-base-blog/tags/second-tag/</loc>
 		<lastmod>2024-07-18</lastmod>
 	</url>
 	
 	<url>
 		<loc>https://perbruno.github.io/eleventy-base-blog/tags/posts-with-two-tags/</loc>
-		<lastmod>2024-07-18</lastmod>
-	</url>
-	
-	<url>
-		<loc>https://perbruno.github.io/eleventy-base-blog/tags/another-tag/</loc>
 		<lastmod>2024-07-18</lastmod>
 	</url>
 </urlset>
